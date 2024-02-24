@@ -2,7 +2,7 @@ import Show from "./Show";
 import Transition from "./components/Transition";
 function App() {
   return (
-    <div className="p-4 flex-col md:flex-row items-center flex justify-center bg-white h-full gap-[10rem] select-none">
+    <div className="mb-[100px] p-4 flex-col md:flex-row items-center flex justify-center bg-white h-full gap-[10rem] select-none">
       <div>
         <Show />
       </div>
